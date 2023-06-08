@@ -5,8 +5,8 @@ function AboutTabs() {
     <>
       <Tabs.Group
   aria-label="Tabs with icons"
-  style="underline"
->
+  style="underline">
+  
   <Tabs.Item
     active
     icon={null}
